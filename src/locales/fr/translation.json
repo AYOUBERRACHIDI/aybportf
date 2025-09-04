@@ -1,0 +1,97 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "header": {
+    "name": "AYOUB ERRACHIDI",
+    "typing_sequences": [
+      "Full Stack Developer",
+      "React & Laravel Enthusiast",
+      "Passionné d’Innovation"
+    ],
+    "description": "Créateur d’expériences web modernes et performantes. Passionné par l’innovation et la transformation des idées en solutions numériques.",
+    "email": "errachidi.ayoub.dev@gmail.com",
+    "phone": "+212 637 056 366",
+    "location": "Casablanca, Maroc",
+    "download_cv": "Télécharger mon CV",
+    "contact_me": "Me contacter"
+  },
+  "about": {
+    "title": "Qui suis-je ?",
+    "bio": "Basé à <span class=\"font-bold text-primary dark:text-yellow-400\">Casablanca</span>, je suis un <span class=\"font-semibold\">Full Stack Developer</span> passionné par la création d’applications web modernes et performantes. Mon objectif est de transformer des idées en expériences numériques innovantes et centrées sur l’utilisateur.",
+    "expertise": [
+      "Expertise full stack : React, Node.js, Laravel.",
+      "Conception d’interfaces modernes et responsives.",
+      "Optimisation des performances et expérience utilisateur."
+    ],
+    "professional_experience_title": "Expérience professionnelle",
+    "professional_experience": "<strong>Stage – Bolt System, Casablanca (avril 2025 – mai 2025)</strong><br />Développement d’une application web de gestion de cabinets d’avocats (<em>React, Express.js, MongoDB</em>) et d’une application mobile avec <em>Flutter</em>.",
+    "education_title": "Formation",
+    "education": [
+      {
+        "year": "2023 - 2025",
+        "text": "Diplôme de Technicien Spécialisé en Développement Digital – CFP Hassania, Casablanca."
+      },
+      {
+        "year": "2022 - 2023",
+        "text": "Première année en Sciences Mathématiques, Informatiques et Applications – Faculté des Sciences Ben M’Sik, Casablanca."
+      },
+      {
+        "year": "2021 - 2022",
+        "text": "Baccalauréat en Sciences Physiques – Lycée Hassan II, Casablanca."
+      }
+    ],
+    "quote": "Toujours curieux, j’explore les nouvelles technologies et relève les défis pour repousser les limites du web."
+  },
+  "skills": {
+    "title": "Compétences"
+  },
+  "projects": {
+    "title": "Projets",
+    "air_shop": {
+      "title": "Air Shop (E-commerce)",
+      "description": "Plateforme e-commerce moderne avec navigation fluide et design responsive.",
+      "tech": "React.js, CSS, HTML",
+      "view_project": "Voir le projet"
+    },
+    "maghreb_event": {
+      "title": "Maghreb Event",
+      "description": "Application de gestion d’événements avec backend robuste et UI dynamique.",
+      "tech": "React.js, Node.js, Express.js, Tailwind CSS, MySQL",
+      "view_project": "Voir le projet"
+    },
+    "ayber": {
+      "title": "AYBER (Gestion de projets et tâches)",
+      "description": "Application complète de gestion des projets et des tâches avec une interface intuitive.",
+      "tech": "Laravel, Tailwind CSS, MySQL",
+      "view_project": "Voir le projet"
+    },
+    "casa_restaurant": {
+      "title": "La Casa Restaurant",
+      "description": "Système de gestion de restaurant avec suivi des commandes, gestion des menus et interface facile à utiliser..",
+      "tech": "React.js, Express.js, Bootstrap, MySQL",
+      "view_project": "Voir le projet"
+    },
+    "unavailable_link": "Le lien du projet n'est pas encore disponible."
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "email": "errachidi.ayoub.dev@gmail.com",
+    "phone": "+212 637 056 366",
+    "location": "Casablanca, Maroc",
+    "name_placeholder": "Votre nom",
+    "email_placeholder": "Votre email",
+    "message_placeholder": "Votre message",
+    "send": "Envoyer",
+    "success": "Message envoyé avec succès !",
+    "error": "Erreur lors de l'envoi du message."
+  },
+  "footer": {
+    "connect": "Connectez-vous avec moi",
+    "copyright": "© 2025 Ayoub Errachidi. Tous droits réservés."
+  }
+}

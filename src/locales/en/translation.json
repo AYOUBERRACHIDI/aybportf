@@ -1,0 +1,97 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "header": {
+    "name": "AYOUB ERRACHIDI",
+    "typing_sequences": [
+      "Full Stack Developer",
+      "React & Laravel Enthusiast",
+      "Innovation Passionate"
+    ],
+    "description": "Creator of modern and high-performance web experiences. Passionate about innovation and transforming ideas into digital solutions.",
+    "email": "errachidi.ayoub.dev@gmail.com",
+    "phone": "+212 637 056 366",
+    "location": "Casablanca, Morocco",
+    "download_cv": "Download my CV",
+    "contact_me": "Contact me"
+  },
+  "about": {
+    "title": "Who Am I ?",
+    "bio": "Based in <span class=\"font-bold text-primary dark:text-yellow-400\">Casablanca</span>, I am a passionate <span class=\"font-semibold\">Full Stack Developer</span> focused on creating modern and high-performance web applications. My goal is to transform ideas into innovative and user-centered digital experiences.",
+    "expertise": [
+      "Full stack expertise: React, Node.js, Laravel.",
+      "Design of modern and responsive interfaces.",
+      "Performance optimization and user experience."
+    ],
+    "professional_experience_title": "Professional Experience",
+    "professional_experience": "<strong>Internship – Bolt System, Casablanca (April 2025 – May 2025)</strong><br />Development of a web application for managing law firms (<em>React, Express.js, MongoDB</em>) and a mobile application with <em>Flutter</em>.",
+    "education_title": "Education",
+    "education": [
+      {
+        "year": "2023 - 2025",
+        "text": "Specialized Technician Diploma in Digital Development – CFP Hassania, Casablanca."
+      },
+      {
+        "year": "2022 - 2023",
+        "text": "First year in Mathematical Sciences, Informatics and Applications – Faculty of Sciences Ben M’Sik, Casablanca."
+      },
+      {
+        "year": "2021 - 2022",
+        "text": "Baccalaureate in Physical Sciences – Hassan II High School, Casablanca."
+      }
+    ],
+    "quote": "Always curious, I explore new technologies and take on challenges to push the boundaries of the web."
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "projects": {
+    "title": "Projects",
+    "air_shop": {
+      "title": "Air Shop (E-commerce)",
+      "description": "Modern e-commerce platform with smooth navigation and responsive design.",
+      "tech": "React.js, CSS, HTML",
+      "view_project": "View the project"
+    },
+    "maghreb_event": {
+      "title": "Maghreb Event",
+      "description": "Event management application with robust backend and dynamic UI.",
+      "tech": "React.js, Node.js, Express.js, Tailwind CSS, MySQL",
+      "view_project": "View the project"
+    },
+    "ayber": {
+      "title": "AYBER (Project & Task Management)",
+      "description": "A complete application for managing projects and tasks with an intuitive interface.",
+      "tech": "Laravel, Tailwind CSS, MySQL",
+      "view_project": "View the project"
+    },
+    "casa_restaurant": {
+      "title": "La Casa Restaurant",
+      "description": "Restaurant management system with order tracking, menu management, and user-friendly UI.",
+      "tech": "React.js, Express.js, Bootstrap, MySQL",
+      "view_project": "View the project"
+    },
+    "unavailable_link": "The project link is not yet available."
+  },
+  "contact": {
+    "title": "Contact Me",
+    "email": "errachidi.ayoub.dev@gmail.com",
+    "phone": "+212 637 056 366",
+    "location": "Casablanca, Morocco",
+    "name_placeholder": "Your name",
+    "email_placeholder": "Your email",
+    "message_placeholder": "Your message",
+    "send": "Send",
+    "success": "Message sent successfully!",
+    "error": "Error sending the message."
+  },
+  "footer": {
+    "connect": "Connect with me",
+    "copyright": "© 2025 Ayoub Errachidi. All rights reserved."
+  }
+}
