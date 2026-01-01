@@ -50,33 +50,71 @@
   "skills": {
     "title": "Skills"
   },
-  "projects": {
-    "title": "Projects",
-    "air_shop": {
-      "title": "Air Shop (E-commerce)",
-      "description": "Modern e-commerce platform with smooth navigation and responsive design.",
-      "tech": "React.js, CSS, HTML",
-      "view_project": "View the project"
-    },
-    "maghreb_event": {
-      "title": "Maghreb Event",
-      "description": "Event management application with robust backend and dynamic UI.",
-      "tech": "React.js, Node.js, Express.js, Tailwind CSS, MySQL",
-      "view_project": "View the project"
-    },
-    "ayber": {
-      "title": "AYBER (Project & Task Management)",
-      "description": "A complete application for managing projects and tasks with an intuitive interface.",
-      "tech": "Laravel, Tailwind CSS, MySQL",
-      "view_project": "View the project"
-    },
-    "casa_restaurant": {
-      "title": "La Casa Restaurant",
-      "description": "Restaurant management system with order tracking, menu management, and user-friendly UI.",
-      "tech": "React.js, Express.js, Bootstrap, MySQL",
-      "view_project": "View the project"
-    },
-    "unavailable_link": "The project link is not yet available."
+  "projects" :{
+  "air_shop": {
+  "title": "Air Shop (E-commerce)",
+  "description": "Modern e-commerce platform with smooth navigation and responsive design.",
+  "tech": "React.js, CSS, HTML",
+  "view_project": "View the project",
+  "features": [
+    "Smooth and responsive navigation",
+    "Cart and payment management",
+    "Advanced product search",
+    "Integration with payment API"
+  ]
+},
+"maghreb_event": {
+  "title": "Maghreb Event",
+  "description": "Event management application with robust backend and dynamic UI.",
+  "tech": "React.js, Node.js, Express.js, Tailwind CSS, MySQL",
+  "view_project": "View the project",
+  "features": [
+    "Event management and registrations",
+    "Robust backend with authentication",
+    "Dynamic UI and real-time notifications",
+    "MySQL database integration"
+  ]
+},
+"ayber": {
+  "title": "AYBER (Project & Task Management)",
+  "description": "A complete application for managing projects and tasks with an intuitive interface.",
+  "tech": "Laravel, Tailwind CSS, MySQL",
+  "view_project": "View the project",
+  "features": [
+    "Collaborative project and task management",
+    "Progress tracking and assignments",
+    "Intuitive interface with drag-and-drop",
+    "Integrated reports and analytics"
+  ]
+},
+"casa_restaurant": {
+  "title": "La Casa Restaurant",
+  "description": "Restaurant management system with order tracking, menu management, and user-friendly UI.",
+  "tech": "React.js, Express.js, Bootstrap, MySQL",
+  "view_project": "View the project",
+  "features": [
+    "Real-time order tracking",
+    "Menu and inventory management",
+    "User-friendly interface",
+    "Integration of payments and reservations"
+  ]
+},
+"ai_assistant": {
+  "title": "Intelligent AI Assistant",
+  "description": "An intelligent AI assistant powered by Google Gemini for instant responses and smart conversations.",
+  "tech": "React.js, Google Gemini API, Tailwind CSS",
+  "view_project": "View the project",
+  "features": [
+    "Instant responses thanks to Google Gemini",
+    "Intelligent context for conversations",
+    "Data security and confidentiality",
+    "Multi-platform and free trial without credit card"
+  ]
+},
+"features_label": "Features :",
+"tech_label": "Technologies :",
+"unavailable_link": "The project link is not yet available."
+
   },
   "contact": {
     "title": "Contact Me",

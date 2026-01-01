@@ -51,33 +51,75 @@
     "title": "Compétences"
   },
   "projects": {
-    "title": "Projets",
-    "air_shop": {
-      "title": "Air Shop (E-commerce)",
-      "description": "Plateforme e-commerce moderne avec navigation fluide et design responsive.",
-      "tech": "React.js, CSS, HTML",
-      "view_project": "Voir le projet"
-    },
-    "maghreb_event": {
-      "title": "Maghreb Event",
-      "description": "Application de gestion d’événements avec backend robuste et UI dynamique.",
-      "tech": "React.js, Node.js, Express.js, Tailwind CSS, MySQL",
-      "view_project": "Voir le projet"
-    },
-    "ayber": {
-      "title": "AYBER (Gestion de projets et tâches)",
-      "description": "Application complète de gestion des projets et des tâches avec une interface intuitive.",
-      "tech": "Laravel, Tailwind CSS, MySQL",
-      "view_project": "Voir le projet"
-    },
-    "casa_restaurant": {
-      "title": "La Casa Restaurant",
-      "description": "Système de gestion de restaurant avec suivi des commandes, gestion des menus et interface facile à utiliser..",
-      "tech": "React.js, Express.js, Bootstrap, MySQL",
-      "view_project": "Voir le projet"
-    },
-    "unavailable_link": "Le lien du projet n'est pas encore disponible."
+  "title": "Projets",
+  "features_label": "Fonctionnalités :",
+  "tech_label": "Technologies :",
+  "unavailable_link": "Le lien du projet n'est pas encore disponible.",
+  "air_shop": {
+    "title": "Air Shop (E-commerce)",
+    "description": "Plateforme e-commerce moderne avec navigation fluide et design responsive.",
+    "tech": "React.js, CSS, HTML",
+    "view_project": "Voir le projet",
+    "features": [
+      "Navigation fluide et responsive",
+      "Gestion du panier et des paiements",
+      "Recherche avancée de produits",
+      "Intégration avec API de paiement"
+    ]
   },
+  "maghreb_event": {
+    "title": "Maghreb Event",
+    "description": "Application de gestion d’événements avec backend robuste et UI dynamique.",
+    "tech": "React.js, Node.js, Express.js, Tailwind CSS, MySQL",
+    "view_project": "Voir le projet",
+    "features": [
+      "Gestion des événements et inscriptions",
+      "Backend robuste avec authentification",
+      "UI dynamique et notifications en temps réel",
+      "Intégration de base de données MySQL"
+    ]
+  },
+  "ayber": {
+    "title": "AYBER (Gestion de projets et tâches)",
+    "description": "Application complète de gestion des projets et des tâches avec une interface intuitive.",
+    "tech": "Laravel, Tailwind CSS, MySQL",
+    "view_project": "Voir le projet",
+    "features": [
+      "Gestion de projets et tâches collaboratives",
+      "Suivi des progrès et assignations",
+      "Interface intuitive avec drag-and-drop",
+      "Rapports et analyses intégrés"
+    ]
+  },
+  "casa_restaurant": {
+    "title": "La Casa Restaurant",
+    "description": "Système de gestion de restaurant avec suivi des commandes, gestion des menus et interface facile à utiliser.",
+    "tech": "React.js, Express.js, Bootstrap, MySQL",
+    "view_project": "Voir le projet",
+    "features": [
+      "Suivi des commandes en temps réel",
+      "Gestion des menus et inventaires",
+      "Interface utilisateur conviviale",
+      "Intégration de paiements et réservations"
+    ]
+  },
+  "ai_assistant": {
+    "title": "Votre Assistant IA Intelligent",
+    "description": "Un assistant IA intelligent propulsé par Google Gemini pour des réponses instantanées et des conversations intelligentes.",
+    "tech": "React.js, Google Gemini API, Tailwind CSS",
+    "view_project": "Voir le projet",
+    "features": [
+      "Réponses instantanées grâce à Google Gemini",
+      "Contexte intelligent pour les conversations",
+      "Sécurité et confidentialité des données",
+      "Multi-plateforme et essai gratuit sans carte bancaire"
+    ]
+  },
+
+"features_label": "Fonctionnalités :",
+"tech_label": "Technologies :",
+"unavailable_link": "Le lien du projet n'est pas encore disponible."
+},
   "contact": {
     "title": "Contactez-moi",
     "email": "errachidi.ayoub.dev@gmail.com",
